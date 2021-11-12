@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/arrays-待办" isTestSource="false" packagePrefix="arrays" />
+      <sourceFolder url="file://$MODULE_DIR$/methods-待办" isTestSource="false" packagePrefix="methods" />
+      <sourceFolder url="file://$MODULE_DIR$/objectAnalyzer-待办" isTestSource="false" packagePrefix="objectAnalyzer" />
+      <sourceFolder url="file://$MODULE_DIR$/reflection-待办" isTestSource="false" packagePrefix="reflection" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

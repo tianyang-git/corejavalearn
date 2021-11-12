@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f8fa5a0-4813-498d-b2e2-43a93661ca68" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../corejava/v1ch02/v1ch02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../corejava/v1ch03/v1ch03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../corejava/v1ch04/v1ch04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../corejava/v2ch09/ch09.sec03/ch09.sec03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../corejava/v2ch09/ch15.sec04/ch15.sec04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../corejava/v2ch09/ch15.sec05/ch15.sec05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../corejava/v2ch09/ch15.sec06/ch15.sec06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../corejava/v2ch09/ch15.sec08/ch15.sec08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../corejava/v2ch09/ch15.sec09/ch15.sec09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../corejava/v2ch09/com.horstmann.greet/com.horstmann.greet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../corejava/v2ch09/com.horstmann.greetsvc/com.horstmann.greetsvc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../corejava/v2ch09/com.horstmann.util/com.horstmann.util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../corejava/v2ch09/v2ch09.automod/v2ch09.automod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../corejava/v2ch09/v2ch09.exportedpkg/v2ch09.exportedpkg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../corejava/v2ch09/v2ch09.hellomod/v2ch09.hellomod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../corejava/v2ch09/v2ch09.openpkg/v2ch09.openpkg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../corejava/v2ch09/v2ch09.openpkg2/v2ch09.openpkg2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../corejava/v2ch09/v2ch09.openpkg3/v2ch09.openpkg3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../corejava/v2ch09/v2ch09.openpkg4/v2ch09.openpkg4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../corejava/v2ch09/v2ch09.requiremod/v2ch09.requiremod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../corejava/v2ch09/v2ch09.useservice/v2ch09.useservice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../corejava/v2ch12/v2ch12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../chapter04/chapter04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/tianyang.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeamSchedule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domin/Architect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domin/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domin/Equipment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domin/NoteBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domin/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domin/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domin/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/junit/NameListServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/NameListService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/TeamException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/TeamService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/TeamView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapter04/Static.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../../../../Program Files/Java/jdk-16.0.2/lib/src.zip!/java.base/java/lang/Object.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
+  </component>
+  <component name="ProjectId" id="1yP6zAIMC999kOlaozatAE3AIwG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.reader.mode" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="increaseLineSpacing" value="true" />
+    <option name="showWarnings" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TeamView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="team.view.TeamView" />
+      <module name="TeamSchedule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="team.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.TeamView" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="9f8fa5a0-4813-498d-b2e2-43a93661ca68" name="更改" comment="" />
+      <created>1632141138040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632141138040</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TeamSchedule$TeamView.ic" NAME="TeamView 覆盖结果" MODIFIED="1632222410465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>team.view.*</FILTER>
+    </SUITE>
+  </component>
+</project>
